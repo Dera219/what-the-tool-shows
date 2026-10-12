@@ -4,7 +4,7 @@
 
 Chidera Onyebu · University of Maryland, College Park · conyebu@terpmail.umd.edu · Draft, October 2026
 
-📄 **[Read the paper (PDF)](what-the-tool-shows.pdf)**
+📄 **[Read the paper (PDF)](what-the-tool-shows.pdf)** · **[SSRN](https://ssrn.com/abstract=7580499)** · DOI [10.2139/ssrn.7580499](https://doi.org/10.2139/ssrn.7580499)
 
 ## Abstract
 
