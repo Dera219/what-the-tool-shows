@@ -1,0 +1,4 @@
+# Blind codes for the follow-up ablation, hashed before the arm key was opened.
+# The files are published with the results. Recompute with: shasum -a 256 <file>
+167e468d1ad09ec4eaf3e76fa5cf7808fe2a0ddcba4647b8fab7fbf41c3f9939  ablation2_codes.json
+0f63ae8c0f4aa092fa72f23a2d7fa1f7ea342fb8a4eda3e4d8bd88c25bf13c7b  ablation2_coding_notes.md
