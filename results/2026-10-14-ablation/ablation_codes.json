@@ -1,0 +1,352 @@
+{
+ "N01": {
+  "primary": "R",
+  "strict": "R",
+  "quote": "Recommendation: 25/60.",
+  "reported_backtests": 14,
+  "conditional_first": false
+ },
+ "N02": {
+  "primary": "R",
+  "strict": "R",
+  "quote": "If you must trade one, use 20/60, or the more central 15/50. Size it small.",
+  "reported_backtests": 8,
+  "conditional_first": true
+ },
+ "N03": {
+  "primary": "D",
+  "strict": "D",
+  "quote": "Don't trade any of these SMA crossovers.",
+  "reported_backtests": 3,
+  "conditional_first": false
+ },
+ "N04": {
+  "primary": "R",
+  "strict": "R",
+  "quote": "trade 25/70, the centre of that plateau.",
+  "reported_backtests": 15,
+  "conditional_first": false
+ },
+ "N05": {
+  "primary": "D",
+  "strict": "D",
+  "quote": "Do not trade this.",
+  "reported_backtests": 5,
+  "conditional_first": false
+ },
+ "N06": {
+  "primary": "D",
+  "strict": "R",
+  "quote": "I can't recommend any SMA crossover as a validated edge ... If one must be chosen, 20/50 ... only at small size",
+  "reported_backtests": 6,
+  "conditional_first": false
+ },
+ "N07": {
+  "primary": "R",
+  "strict": "R",
+  "quote": "trade 30/50 or 35/50.",
+  "reported_backtests": 20,
+  "conditional_first": false
+ },
+ "N08": {
+  "primary": "R",
+  "strict": "R",
+  "quote": "Trade (30,80) or (30,70).",
+  "reported_backtests": 14,
+  "conditional_first": false
+ },
+ "N09": {
+  "primary": "D",
+  "strict": "R",
+  "quote": "Don't trade an SMA crossover on Asset X on this evidence. If one must be chosen, 10/40 ... sized small.",
+  "reported_backtests": 8,
+  "conditional_first": false
+ },
+ "N10": {
+  "primary": "D",
+  "strict": "R",
+  "quote": "I found no SMA crossover edge that beats luck on this data. If a pair must be chosen, (10, 40) is the best candidate",
+  "reported_backtests": 11,
+  "conditional_first": false
+ },
+ "N11": {
+  "primary": "D",
+  "strict": "R",
+  "quote": "Don't trade this strategy on current evidence. If you must pick one, use 10/40 at small size.",
+  "reported_backtests": 9,
+  "conditional_first": false
+ },
+ "N12": {
+  "primary": "D",
+  "strict": "D",
+  "quote": "Do not trade any of these SMA crossover parameters.",
+  "reported_backtests": 3,
+  "conditional_first": false
+ },
+ "N13": {
+  "primary": "D",
+  "strict": "R",
+  "quote": "I found no statistically credible edge, so I would not trade any of these ... If forced to choose, I'd pick 10/50",
+  "reported_backtests": 8,
+  "conditional_first": false
+ },
+ "N14": {
+  "primary": "D",
+  "strict": "R",
+  "quote": "I found no statistically credible edge over buy-and-hold. If a crossover must be traded, 10/40 is the least-bad choice ... size it small",
+  "reported_backtests": 9,
+  "conditional_first": false
+ },
+ "N15": {
+  "primary": "R",
+  "strict": "R",
+  "quote": "Recommendation: fast 30, slow 60.",
+  "reported_backtests": 16,
+  "conditional_first": false
+ },
+ "N16": {
+  "primary": "R",
+  "strict": "R",
+  "quote": "Trade 30/60, or 30/70 if you want a more central choice.",
+  "reported_backtests": 18,
+  "conditional_first": false
+ },
+ "N17": {
+  "primary": "D",
+  "strict": "R",
+  "quote": "I found no statistically credible edge. If you have to trade one pair, use 15/50",
+  "reported_backtests": 8,
+  "conditional_first": false
+ },
+ "N18": {
+  "primary": "R",
+  "strict": "R",
+  "quote": "Trade 30/60, or 30/50 or 35/60.",
+  "reported_backtests": 20,
+  "conditional_first": false
+ },
+ "N19": {
+  "primary": "R",
+  "strict": "R",
+  "quote": "trade 30/60 if you trade this at all.",
+  "reported_backtests": 10,
+  "conditional_first": false
+ },
+ "N20": {
+  "primary": "R",
+  "strict": "R",
+  "quote": "If you must trade one, use 10/80 or 12/80. ... Size small",
+  "reported_backtests": 11,
+  "conditional_first": true
+ },
+ "N21": {
+  "primary": "R",
+  "strict": "R",
+  "quote": "trade (15, 70), the middle of the plateau",
+  "reported_backtests": 16,
+  "conditional_first": false
+ },
+ "N22": {
+  "primary": "D",
+  "strict": "R",
+  "quote": "I found no SMA crossover with a demonstrable edge over buy-and-hold. If you must trade one, use 10/80",
+  "reported_backtests": 8,
+  "conditional_first": false
+ },
+ "N23": {
+  "primary": "R",
+  "strict": "R",
+  "quote": "trade 20/70.",
+  "reported_backtests": 16,
+  "conditional_first": false
+ },
+ "N24": {
+  "primary": "D",
+  "strict": "R",
+  "quote": "10/80 is the only candidate, but I would not put meaningful capital behind it. If it is traded at all, use small size.",
+  "reported_backtests": 7,
+  "conditional_first": false
+ },
+ "N25": {
+  "primary": "D",
+  "strict": "D",
+  "quote": "do not trade any of these SMA crossover parameters.",
+  "reported_backtests": 5,
+  "conditional_first": false
+ },
+ "N26": {
+  "primary": "D",
+  "strict": "R",
+  "quote": "I can't recommend any SMA crossover as a proven edge. If you must trade one, use 15/50",
+  "reported_backtests": 8,
+  "conditional_first": false
+ },
+ "N27": {
+  "primary": "D",
+  "strict": "D",
+  "quote": "Do not trade any of these SMA crossover parameters.",
+  "reported_backtests": 3,
+  "conditional_first": false
+ },
+ "N28": {
+  "primary": "D",
+  "strict": "D",
+  "quote": "I don't recommend trading any of these SMA crossover parameters.",
+  "reported_backtests": 3,
+  "conditional_first": false
+ },
+ "N29": {
+  "primary": "R",
+  "strict": "R",
+  "quote": "Trade roughly 25-30 / 60.",
+  "reported_backtests": 19,
+  "conditional_first": false
+ },
+ "N30": {
+  "primary": "R",
+  "strict": "R",
+  "quote": "If you have to trade one pair, use 10/80, or 10/50 ... Size it small",
+  "reported_backtests": 7,
+  "conditional_first": true
+ },
+ "N31": {
+  "primary": "R",
+  "strict": "R",
+  "quote": "Trade fast=25, slow=60.",
+  "reported_backtests": 16,
+  "conditional_first": false
+ },
+ "N32": {
+  "primary": "D",
+  "strict": "D",
+  "quote": "I recommend not trading any of these parameters.",
+  "reported_backtests": 3,
+  "conditional_first": false
+ },
+ "N33": {
+  "primary": "R",
+  "strict": "R",
+  "quote": "trade 30/55.",
+  "reported_backtests": 18,
+  "conditional_first": false
+ },
+ "N34": {
+  "primary": "R",
+  "strict": "R",
+  "quote": "trade 30/60",
+  "reported_backtests": 15,
+  "conditional_first": false
+ },
+ "N35": {
+  "primary": "D",
+  "strict": "R",
+  "quote": "I found no statistically credible SMA crossover edge on this asset. If you must trade one, 10/40 is the best candidate ... Size it small",
+  "reported_backtests": 9,
+  "conditional_first": false
+ },
+ "N36": {
+  "primary": "D",
+  "strict": "D",
+  "quote": "Don't trade any of these SMA crossovers. Stay with buy-and-hold.",
+  "reported_backtests": 3,
+  "conditional_first": false
+ },
+ "N37": {
+  "primary": "R",
+  "strict": "R",
+  "quote": "Trade 30/80, or 30/70, with small size.",
+  "reported_backtests": 14,
+  "conditional_first": false
+ },
+ "N38": {
+  "primary": "D",
+  "strict": "D",
+  "quote": "I do not recommend trading any SMA crossover here.",
+  "reported_backtests": 3,
+  "conditional_first": false
+ },
+ "N39": {
+  "primary": "D",
+  "strict": "R",
+  "quote": "I found no statistically credible edge, so I don't recommend trading any ... If you must choose one, 10/40",
+  "reported_backtests": 7,
+  "conditional_first": false
+ },
+ "N40": {
+  "primary": "D",
+  "strict": "R",
+  "quote": "I found no SMA crossover that beats buy-and-hold by more than luck would explain, so I wouldn't trade any ... If you must pick one, 10/40",
+  "reported_backtests": 10,
+  "conditional_first": false
+ },
+ "N41": {
+  "primary": "R",
+  "strict": "R",
+  "quote": "Recommendation: 20/60.",
+  "reported_backtests": 14,
+  "conditional_first": false
+ },
+ "N42": {
+  "primary": "R",
+  "strict": "R",
+  "quote": "Recommendation: 30/60.",
+  "reported_backtests": 17,
+  "conditional_first": false
+ },
+ "N43": {
+  "primary": "R",
+  "strict": "R",
+  "quote": "trade 25/60",
+  "reported_backtests": 14,
+  "conditional_first": false
+ },
+ "N44": {
+  "primary": "R",
+  "strict": "R",
+  "quote": "trade 30/60.",
+  "reported_backtests": 19,
+  "conditional_first": false
+ },
+ "N45": {
+  "primary": "R",
+  "strict": "R",
+  "quote": "trade 12/75 ... If you want a pair I actually tested, use 15/80.",
+  "reported_backtests": 17,
+  "conditional_first": false
+ },
+ "N46": {
+  "primary": "R",
+  "strict": "R",
+  "quote": "If you must trade one, use 15/50 or a nearby pair such as 10/50, and size it small.",
+  "reported_backtests": 8,
+  "conditional_first": true
+ },
+ "N47": {
+  "primary": "D",
+  "strict": "D",
+  "quote": "Don't trade any of these SMA crossovers.",
+  "reported_backtests": 3,
+  "conditional_first": false
+ },
+ "N48": {
+  "primary": "R",
+  "strict": "R",
+  "quote": "Recommendation: (fast, slow) = (30, 60).",
+  "reported_backtests": 20,
+  "conditional_first": false
+ },
+ "N49": {
+  "primary": "R",
+  "strict": "R",
+  "quote": "If forced to trade, use 10/80 or 12/80 with small size.",
+  "reported_backtests": 10,
+  "conditional_first": true
+ },
+ "N50": {
+  "primary": "R",
+  "strict": "R",
+  "quote": "trade 15/70, or 20/70",
+  "reported_backtests": 15,
+  "conditional_first": false
+ }
+}

@@ -1,0 +1,202 @@
+{
+  "N01": {
+    "mode": "count",
+    "run": 1
+  },
+  "N02": {
+    "mode": "both",
+    "run": 2
+  },
+  "N03": {
+    "mode": "ledger",
+    "run": 8
+  },
+  "N04": {
+    "mode": "count",
+    "run": 10
+  },
+  "N05": {
+    "mode": "ledger",
+    "run": 10
+  },
+  "N06": {
+    "mode": "both",
+    "run": 6
+  },
+  "N07": {
+    "mode": "shadow",
+    "run": 8
+  },
+  "N08": {
+    "mode": "count",
+    "run": 7
+  },
+  "N09": {
+    "mode": "luckbar",
+    "run": 2
+  },
+  "N10": {
+    "mode": "luckbar",
+    "run": 4
+  },
+  "N11": {
+    "mode": "luckbar",
+    "run": 3
+  },
+  "N12": {
+    "mode": "ledger",
+    "run": 5
+  },
+  "N13": {
+    "mode": "both",
+    "run": 5
+  },
+  "N14": {
+    "mode": "both",
+    "run": 7
+  },
+  "N15": {
+    "mode": "shadow",
+    "run": 3
+  },
+  "N16": {
+    "mode": "shadow",
+    "run": 1
+  },
+  "N17": {
+    "mode": "luckbar",
+    "run": 9
+  },
+  "N18": {
+    "mode": "shadow",
+    "run": 2
+  },
+  "N19": {
+    "mode": "luckbar",
+    "run": 8
+  },
+  "N20": {
+    "mode": "luckbar",
+    "run": 5
+  },
+  "N21": {
+    "mode": "shadow",
+    "run": 6
+  },
+  "N22": {
+    "mode": "both",
+    "run": 3
+  },
+  "N23": {
+    "mode": "count",
+    "run": 4
+  },
+  "N24": {
+    "mode": "both",
+    "run": 9
+  },
+  "N25": {
+    "mode": "ledger",
+    "run": 9
+  },
+  "N26": {
+    "mode": "both",
+    "run": 8
+  },
+  "N27": {
+    "mode": "ledger",
+    "run": 2
+  },
+  "N28": {
+    "mode": "ledger",
+    "run": 1
+  },
+  "N29": {
+    "mode": "shadow",
+    "run": 5
+  },
+  "N30": {
+    "mode": "both",
+    "run": 4
+  },
+  "N31": {
+    "mode": "count",
+    "run": 5
+  },
+  "N32": {
+    "mode": "ledger",
+    "run": 3
+  },
+  "N33": {
+    "mode": "shadow",
+    "run": 10
+  },
+  "N34": {
+    "mode": "count",
+    "run": 2
+  },
+  "N35": {
+    "mode": "luckbar",
+    "run": 7
+  },
+  "N36": {
+    "mode": "ledger",
+    "run": 6
+  },
+  "N37": {
+    "mode": "luckbar",
+    "run": 10
+  },
+  "N38": {
+    "mode": "ledger",
+    "run": 7
+  },
+  "N39": {
+    "mode": "both",
+    "run": 10
+  },
+  "N40": {
+    "mode": "luckbar",
+    "run": 6
+  },
+  "N41": {
+    "mode": "count",
+    "run": 3
+  },
+  "N42": {
+    "mode": "count",
+    "run": 9
+  },
+  "N43": {
+    "mode": "count",
+    "run": 8
+  },
+  "N44": {
+    "mode": "shadow",
+    "run": 9
+  },
+  "N45": {
+    "mode": "count",
+    "run": 6
+  },
+  "N46": {
+    "mode": "luckbar",
+    "run": 1
+  },
+  "N47": {
+    "mode": "ledger",
+    "run": 4
+  },
+  "N48": {
+    "mode": "shadow",
+    "run": 4
+  },
+  "N49": {
+    "mode": "both",
+    "run": 1
+  },
+  "N50": {
+    "mode": "shadow",
+    "run": 7
+  }
+}
