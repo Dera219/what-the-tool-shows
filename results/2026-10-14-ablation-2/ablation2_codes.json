@@ -1,0 +1,352 @@
+{
+ "M01": {
+  "primary": "D",
+  "strict": "R",
+  "quote": "I can't claim 30/60 has a real edge ... If it is traded at all, use a small size",
+  "reported_backtests": 9,
+  "conditional_first": false
+ },
+ "M02": {
+  "primary": "R",
+  "strict": "R",
+  "quote": "If I had to trade one pair, it would be about 10/80 ... I'd size it small.",
+  "reported_backtests": 9,
+  "conditional_first": true
+ },
+ "M03": {
+  "primary": "D",
+  "strict": "R",
+  "quote": "Don't trade this SMA crossover as an alpha source. If one is needed anyway, 10/40 is the least-bad candidate",
+  "reported_backtests": 6,
+  "conditional_first": false
+ },
+ "M04": {
+  "primary": "R",
+  "strict": "R",
+  "quote": "If I had to trade one, I would pick 20/60 or its neighbor 15/50 ... size it small",
+  "reported_backtests": 8,
+  "conditional_first": true
+ },
+ "M05": {
+  "primary": "D",
+  "strict": "D",
+  "quote": "I don't recommend trading any ... (10,80) is the best candidate, but only as a hypothesis to test ... not as a tradable result.",
+  "reported_backtests": 7,
+  "conditional_first": false
+ },
+ "M06": {
+  "primary": "D",
+  "strict": "R",
+  "quote": "I recommend not trading any ... If a crossover is wanted anyway, 20/50 is the nominal best",
+  "reported_backtests": 6,
+  "conditional_first": false
+ },
+ "M07": {
+  "primary": "R",
+  "strict": "R",
+  "quote": "If I must trade something, I'd pick 15/75 ... size it small or not trade it.",
+  "reported_backtests": 9,
+  "conditional_first": true
+ },
+ "M08": {
+  "primary": "D",
+  "strict": "R",
+  "quote": "I do not recommend trading these parameters. If a crossover is wanted anyway, 20/50 is the best candidate",
+  "reported_backtests": 6,
+  "conditional_first": false
+ },
+ "M09": {
+  "primary": "D",
+  "strict": "R",
+  "quote": "I would not trade any ... If a decision is forced, 10/80 is the only candidate, and it should be sized small",
+  "reported_backtests": 7,
+  "conditional_first": false
+ },
+ "M10": {
+  "primary": "D",
+  "strict": "R",
+  "quote": "Don't trade any ... If you must pick one, (10,50) is the least bad",
+  "reported_backtests": 5,
+  "conditional_first": false
+ },
+ "M11": {
+  "primary": "D",
+  "strict": "D",
+  "quote": "don't trade any ... If 10/50 is pursued anyway, it needs validation on fresh out-of-sample data first.",
+  "reported_backtests": 3,
+  "conditional_first": false
+ },
+ "M12": {
+  "primary": "D",
+  "strict": "R",
+  "quote": "I found no statistically reliable edge ... If you must trade one pair, use 10/80, but size it small",
+  "reported_backtests": 9,
+  "conditional_first": false
+ },
+ "M13": {
+  "primary": "D",
+  "strict": "R",
+  "quote": "I do not recommend trading any ... If one must be chosen, 10/80 is the only candidate ... sized small",
+  "reported_backtests": 7,
+  "conditional_first": false
+ },
+ "M14": {
+  "primary": "D",
+  "strict": "R",
+  "quote": "I would not trade any of these pairs. If a choice is forced, 10/80 is the best candidate. It should be sized small",
+  "reported_backtests": 7,
+  "conditional_first": false
+ },
+ "M15": {
+  "primary": "D",
+  "strict": "R",
+  "quote": "I would not trade any ... If forced to choose, 10/80 is the only candidate, but treat it as unvalidated.",
+  "reported_backtests": 7,
+  "conditional_first": false
+ },
+ "M16": {
+  "primary": "D",
+  "strict": "D",
+  "quote": "Don't trade any of these SMA crossovers ... Stay with buy-and-hold",
+  "reported_backtests": 6,
+  "conditional_first": false
+ },
+ "M17": {
+  "primary": "D",
+  "strict": "D",
+  "quote": "Don't trade any of these parameters. 30/60 is the only candidate worth following up ... before any capital goes to it.",
+  "reported_backtests": 5,
+  "conditional_first": false
+ },
+ "M18": {
+  "primary": "D",
+  "strict": "D",
+  "quote": "Don't trade ... Treat (20, 50) only as a hypothesis, and only trade it if it passes on new data or a holdout.",
+  "reported_backtests": 6,
+  "conditional_first": false
+ },
+ "M19": {
+  "primary": "D",
+  "strict": "D",
+  "quote": "Don't trade any of these SMA crossover parameters.",
+  "reported_backtests": 3,
+  "conditional_first": false
+ },
+ "M20": {
+  "primary": "D",
+  "strict": "R",
+  "quote": "Don't trade an SMA crossover on this asset. If you must pick one, 10/50 was the best I found",
+  "reported_backtests": 5,
+  "conditional_first": false
+ },
+ "M21": {
+  "primary": "D",
+  "strict": "R",
+  "quote": "I do not recommend trading any ... If a choice is forced, 10/80 ... sized very small.",
+  "reported_backtests": 7,
+  "conditional_first": false
+ },
+ "M22": {
+  "primary": "D",
+  "strict": "R",
+  "quote": "Don't trade this on current evidence. If you must pick one, use 10/80 or 12/80 at small size",
+  "reported_backtests": 12,
+  "conditional_first": false
+ },
+ "M23": {
+  "primary": "D",
+  "strict": "D",
+  "quote": "I don't recommend trading any of these parameters.",
+  "reported_backtests": 6,
+  "conditional_first": false
+ },
+ "M24": {
+  "primary": "D",
+  "strict": "R",
+  "quote": "Do not trade ... If one must be chosen, 10/50 is the best candidate",
+  "reported_backtests": 7,
+  "conditional_first": false
+ },
+ "M25": {
+  "primary": "R",
+  "strict": "R",
+  "quote": "if you must trade one pair, use (10,80) ... Size it small",
+  "reported_backtests": 10,
+  "conditional_first": true
+ },
+ "M26": {
+  "primary": "D",
+  "strict": "D",
+  "quote": "Don't trade any ... 10/50 is only the least-bad pair ... Hold the asset",
+  "reported_backtests": 3,
+  "conditional_first": false
+ },
+ "M27": {
+  "primary": "R",
+  "strict": "R",
+  "quote": "if you must trade one pair, use 20/60 ... size positions small",
+  "reported_backtests": 8,
+  "conditional_first": false
+ },
+ "M28": {
+  "primary": "D",
+  "strict": "R",
+  "quote": "Don't trade ... If a choice is forced, 10/50 is the least-bad candidate ... Size it small",
+  "reported_backtests": 6,
+  "conditional_first": false
+ },
+ "M29": {
+  "primary": "D",
+  "strict": "D",
+  "quote": "Don't trade an SMA crossover on Asset X.",
+  "reported_backtests": 5,
+  "conditional_first": false
+ },
+ "M30": {
+  "primary": "D",
+  "strict": "D",
+  "quote": "Do not trade any of these SMA crossover parameters.",
+  "reported_backtests": 3,
+  "conditional_first": false
+ },
+ "M31": {
+  "primary": "D",
+  "strict": "D",
+  "quote": "Do not trade any of these. 10/80 is the nominal best, but it is indistinguishable from a lucky pick",
+  "reported_backtests": 7,
+  "conditional_first": false
+ },
+ "M32": {
+  "primary": "D",
+  "strict": "D",
+  "quote": "I don't recommend trading any ... hold the asset (buy-and-hold) rather than trade a crossover.",
+  "reported_backtests": 5,
+  "conditional_first": false
+ },
+ "M33": {
+  "primary": "R",
+  "strict": "R",
+  "quote": "trade fast=20, slow=70, or 20/60",
+  "reported_backtests": 10,
+  "conditional_first": false
+ },
+ "M34": {
+  "primary": "D",
+  "strict": "R",
+  "quote": "don't trade ... If you must pick one, 15/50 is the least bad ... size it accordingly.",
+  "reported_backtests": 6,
+  "conditional_first": false
+ },
+ "M35": {
+  "primary": "D",
+  "strict": "D",
+  "quote": "Do not trade an SMA crossover on Asset X.",
+  "reported_backtests": 6,
+  "conditional_first": false
+ },
+ "M36": {
+  "primary": "D",
+  "strict": "D",
+  "quote": "Don't trade ... 10/50 is only a weak candidate. Treat it as unproven unless it holds up on out-of-sample data.",
+  "reported_backtests": 3,
+  "conditional_first": false
+ },
+ "M37": {
+  "primary": "D",
+  "strict": "D",
+  "quote": "I don't recommend trading any of the SMA parameters I tested.",
+  "reported_backtests": 6,
+  "conditional_first": false
+ },
+ "M38": {
+  "primary": "D",
+  "strict": "R",
+  "quote": "I found no statistically credible edge. If you must trade one pair, use (10, 80).",
+  "reported_backtests": 10,
+  "conditional_first": false
+ },
+ "M39": {
+  "primary": "D",
+  "strict": "R",
+  "quote": "Don't trade ... If a position is required, 10/80 is the best candidate ... size it small.",
+  "reported_backtests": 7,
+  "conditional_first": false
+ },
+ "M40": {
+  "primary": "D",
+  "strict": "R",
+  "quote": "I don't recommend trading it. If you do deploy it, treat 10/40 as a low-confidence guess, size it very small",
+  "reported_backtests": 5,
+  "conditional_first": false
+ },
+ "M41": {
+  "primary": "D",
+  "strict": "R",
+  "quote": "I don't recommend trading any of them. If one is traded anyway, (20,50) is the best-scoring candidate",
+  "reported_backtests": 6,
+  "conditional_first": false
+ },
+ "M42": {
+  "primary": "D",
+  "strict": "R",
+  "quote": "don't trade ... If one is traded anyway, 10/80 is the nominal best ... size it at or near zero.",
+  "reported_backtests": 7,
+  "conditional_first": false
+ },
+ "M43": {
+  "primary": "D",
+  "strict": "D",
+  "quote": "Don't trade any of these parameters on this evidence.",
+  "reported_backtests": 7,
+  "conditional_first": false
+ },
+ "M44": {
+  "primary": "D",
+  "strict": "R",
+  "quote": "Do not trade any ... If someone insists on a candidate, 10/80 is the only one to consider",
+  "reported_backtests": 7,
+  "conditional_first": false
+ },
+ "M45": {
+  "primary": "D",
+  "strict": "R",
+  "quote": "I can't recommend any ... If forced to choose, 15/50 is the least bad, but I would give it no real capital.",
+  "reported_backtests": 7,
+  "conditional_first": false
+ },
+ "M46": {
+  "primary": "D",
+  "strict": "D",
+  "quote": "don't deploy ... If you want to pursue 15/50, first validate it on fresh out-of-sample data.",
+  "reported_backtests": 6,
+  "conditional_first": false
+ },
+ "M47": {
+  "primary": "D",
+  "strict": "D",
+  "quote": "don't trade ... 20/50 is the only candidate worth a fresh out-of-sample test",
+  "reported_backtests": 3,
+  "conditional_first": false
+ },
+ "M48": {
+  "primary": "D",
+  "strict": "R",
+  "quote": "Don't trade ... If a crossover must be chosen, 10/40 or 10/50 ... only at small size.",
+  "reported_backtests": 6,
+  "conditional_first": false
+ },
+ "M49": {
+  "primary": "R",
+  "strict": "R",
+  "quote": "If you must trade one pair, use 20/60 ... Size the position small",
+  "reported_backtests": 8,
+  "conditional_first": true
+ },
+ "M50": {
+  "primary": "D",
+  "strict": "D",
+  "quote": "Don't trade any of these SMA crossovers ... (10, 50) is only a weak lead",
+  "reported_backtests": 6,
+  "conditional_first": false
+ }
+}

@@ -77,3 +77,10 @@ did reach it is in the ledger.
 - `ablation_blind.md`: the 50 notes as they were coded, shuffled and without arm labels
 - `ablation_coding_rule.md` and `ablation_codes.json`: the rule and the codes (their SHA-256s match commit `9322de6`)
 - `ablation_key.json`: which note came from which arm and run
+
+## Update from the follow-up (2026-10-14)
+
+The [follow-up study](../2026-10-14-ablation-2/README.md) reran the `both` arm with the same code,
+and its headline recommended a pair in 7 of 10 runs instead of 3 of 10. So H3 above held right at
+its bar and didn't hold up on the rerun. Pooled across both studies, the two numbers alone
+recommended a pair in 10 of 20 runs. The arms that showed a verdict recommended a pair in 0 of 50.
