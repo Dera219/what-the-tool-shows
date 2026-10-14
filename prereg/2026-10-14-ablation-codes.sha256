@@ -1,0 +1,4 @@
+# Blind codes for the 2026-10-14 ablation, hashed before the arm key was opened.
+# The files are published with the results. Recompute with: shasum -a 256 <file>
+ba044578163934b6f81a338748a156075f067a6ded61a4d20ce2dd2f718c58d3  ablation_codes.json
+bf16e7b28ae3f292148f4a6c65419839c46593edc4dd0ddfbdc9744f953780d5  ablation_coding_rule.md
