@@ -1,0 +1,4 @@
+# The second coder's (Claude's) blind codes for the clean rerun, hashed before either the arm key was
+# opened or the primary coder started. The files are published with the results. Recompute: shasum -a 256 <file>
+01cb2a0189109393ad5cd3a0d8c95af08b8056faf521c0833ca2efbf0af38b02  clean_codes_claude.csv
+ba45c79cbdf95bec43c53bea9c2e83db1966a68afb2917c6ebd814596992468c  clean_coding_notes_claude.md
