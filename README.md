@@ -6,6 +6,19 @@ Chidera Onyebu · University of Maryland, College Park · conyebu@terpmail.umd.e
 
 📄 **[Read the paper (PDF)](what-the-tool-shows.pdf)** · **[SSRN](https://ssrn.com/abstract=7580499)** · DOI [10.2139/ssrn.7580499](https://doi.org/10.2139/ssrn.7580499)
 
+## Correction, 2026-10-15
+
+An independent review of this work found a flaw in my tool code. In the ledger arm, every backtest result
+included the study's hypothesis, and I had written it as "an SMA crossover beats buy-and-hold (noise)", so the
+agents that saw the ledger could read the word "noise" next to every score. The study_status tool showed the same
+text, and the shadow arm never saw it. That confounds the headline comparison in the paper (13 of 13 against 0 of
+13, and 28 of 28 across three models), and also the `ledger`, `tools` and `toolsprompt` arms of the two ablations
+in `results/`. The REFUSED-label arm didn't see it.
+
+I'm rerunning the affected comparisons with a neutral hypothesis, pre-registered in `prereg/` before the first
+run. The paper and the SSRN version will be revised to whatever the clean runs show, and until then the ledger-arm
+results should be treated as unconfirmed.
+
 ## Abstract
 
 AI agents now run research loops on their own, calling a backtest tool dozens of times and then

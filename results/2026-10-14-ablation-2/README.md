@@ -1,5 +1,7 @@
 # Results: which part of the verdict takes the fallback trade away?
 
+> **Correction, 2026-10-15:** the `ledger`, `tools` and `toolsprompt` arms saw the hypothesis text "an SMA crossover beats buy-and-hold (noise)" in their tool output, which may have cued them. See the correction in the main README. A clean rerun is pre-registered in `prereg/`.
+
 This is the study pre-registered in
 [`prereg/2026-10-14-ablation-2.md`](../../prereg/2026-10-14-ablation-2.md), pushed in commit
 `b02b0b6` before any run. The blind codes were hashed and pushed in commit `49be56a` before the arm

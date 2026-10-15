@@ -1,5 +1,7 @@
 # Results: which part of the tool output changes the agent's decision?
 
+> **Correction, 2026-10-15:** the `ledger`, `tools` and `toolsprompt` arms saw the hypothesis text "an SMA crossover beats buy-and-hold (noise)" in their tool output, which may have cued them. See the correction in the main README. A clean rerun is pre-registered in `prereg/`.
+
 This is the study pre-registered in [`prereg/2026-10-14-ablation.md`](../../prereg/2026-10-14-ablation.md).
 That file was pushed in commit `6f34926` before any run, and the blind codes were hashed and pushed
 in commit `9322de6` before the arm key was opened. All 50 runs finished with no errors or aborts,
